@@ -13,7 +13,7 @@ Each burger in the waiting area also has a Devour button. When the user clicks i
 
 Each burger on the right side of the page will have a Delete Button. When the user clicks delete, it will be removed from the database and the page.
 
-
+![](public/assests/img/burgerapp.png)
 
 # Built With
 * HTML/CSS
